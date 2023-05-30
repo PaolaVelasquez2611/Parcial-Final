@@ -1,0 +1,29 @@
+
+
+*{
+    background-color: rgb(245, 228, 206);
+}
+
+#this {
+    color: rgb(0, 0, 0);
+}
+
+input {
+    border: none;
+    border-radius: 20px;
+    width: 100%;
+}
+
+h1 {
+    font-family: 'Courier New', Courier, monospace;
+}
+
+button {
+    border: none;
+    border-radius: 20px;
+    width: 150px;
+    padding: 10px;
+    margin: 10px;
+    background-color: rgb(78, 18, 18);
+    color: white;
+}
